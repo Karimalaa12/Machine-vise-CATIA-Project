@@ -1,4 +1,9 @@
 # Machine-vise-CATIA-Project
+
+
+<img width="1009" height="661" alt="Screenshot 2025-11-08 225924" src="https://github.com/user-attachments/assets/b57000ff-0bbd-4462-a28e-d3f6a9d3277b" />
+
+
 🔧 Project Description
 This project presents the full design of a Machine Vice using CATIA V5, starting from 2D engineering sketches and ending with a complete 3D assembly and technical drawings.
 The project demonstrates practical use of CATIA tools in Part Design, Assembly Design, and Drafting, covering every step required to turn a mechanical drawing into a manufacturable product.
